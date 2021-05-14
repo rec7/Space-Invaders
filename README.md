@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm fs!</h1>
 <h3 align="center">Some guy coding in his bedroom for fun.</h3>
+<h3 align="center"> </h3>
 
 - 🔭 I’m currently working on **Space Invaders copy(original, I know)**
 
 - 🌱 I’m currently learning **Python, Node JS, HTML, CSS, Java**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
